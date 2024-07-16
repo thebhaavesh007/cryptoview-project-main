@@ -4,7 +4,7 @@ CryptoView is a simple cryptocurrency tracker application built using HTML, CSS,
 
 ## Demo
 
-[Demo Link]((https://cryptoview-2024.netlify.app/))
+[Demo Link](https://cryptoview-2024.netlify.app/)
 
 ## Features
 
